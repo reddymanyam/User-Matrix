@@ -7,10 +7,10 @@ To set up UserMatrix locally, follow these steps:
  ```bash
    git clone https://github.com/your-username/UserMatrix.git
 
-Navigate to the project directory:
+### Navigate to the project directory:
 cd UserMatrix
-Install dependencies:
+### Install dependencies:
 npm install
-Start the development server:
+### Start the development server:
 npm start
-The application will be available at http://localhost:3000.
+## The application will be available at http://localhost:3000.
