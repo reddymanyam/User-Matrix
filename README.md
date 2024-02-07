@@ -4,7 +4,7 @@ UserMatrix is a type-safe CRUD application built with React and JavaScript, desi
 ## Installation
 To set up UserMatrix locally, follow these steps:
 ## Clone the repository:
-   git clone https://github.com/your-username/UserMatrix.git
+   [git clone https://github.com/your-username/UserMatrix.git](https://github.com/reddymanyam/User-Matrix)
 
 ### Navigate to the project directory:
 cd UserMatrix
