@@ -12,4 +12,4 @@ cd UserMatrix
 npm install
 ### Start the development server:
 npm start
-### The application will be available at localhost:3000
+### "The application was run on localhost:3000."
